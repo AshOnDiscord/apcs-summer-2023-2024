@@ -1,6 +1,6 @@
 package arrays.mainProjects;
 
-public class theBigEZ {
+public class ARCHIVEtheBigEZ {
   public static void main(String[] args) {
     long count = 0;
     for (int i = 0; i < 1000; i++) {
